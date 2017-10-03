@@ -1,0 +1,74 @@
+.row .header {
+  font-size: 24px;
+  font-weight: 100; }
+
+body {
+  position: relative; }
+
+a .header-link {
+  text-decoration: none;
+  color: black; }
+  a .header-link :active {
+    text-decoration: none;
+    color: black; }
+  a .header-link :visited {
+    text-decoration: none;
+    color: black; }
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+  max-height: 510px;
+  max-width: 680px; }
+
+#catering {
+  margin-top: 100px; }
+
+.row {
+  display: flex;
+  flex-wrap: wrap; }
+
+#about-us {
+  margin-top: 100px; }
+
+.pig-icon {
+  margin-top: 20px; }
+
+.facebook-button {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px; }
+
+.instagram-button {
+  padding: 0.5rem 1rem;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px; }
+
+#contactSubHeader {
+  margin-top: 30px;
+  margin-bottom: 50px; }
+
+.footer .container-fluid {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 1rem; }
+
+.footer .fa-facebook-square {
+  color: #292b2c;
+  margin-right: 10px; }
+
+.footer .fa-instagram {
+  color: #292b2c;
+  margin-left: 10px; }
+
+.footer p, .footer small {
+  margin-top: 30px; }
+
+.index-copy {
+  margin-top: 50px; }
+
+@media screen and (max-width: 700px) {
+  .pig-icon {
+    margin-top: 50px; } }
