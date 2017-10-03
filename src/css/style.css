@@ -23,7 +23,7 @@ a .header-link {
   max-width: 680px; }
 
 #catering {
-  margin-top: 100px; }
+  margin-top: 50px; }
 
 .row {
   display: flex;
@@ -34,6 +34,9 @@ a .header-link {
 
 .pig-icon {
   margin-top: 20px; }
+
+#header {
+  margin-bottom: 16px; }
 
 .facebook-button {
   margin-right: 10px;
